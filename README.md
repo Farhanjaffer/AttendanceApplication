@@ -1,2 +1,16 @@
-# AttendanceApplication
-As a trainee at Bhilai Steel Plant, I was involved in developing a geographical location-based app using Flutter. Responsibilities include coding, feature implementation, and designing the user interface with Figma for an intuitive and visually appealing experience. It provided hands-on experience in software development, honed my skills in coding and UI/UX design, and offered practical insights into the industrial application of technology within the geological sector. This experience significantly enhanced my expertise and prepared me for future endeavors in the field of technology and industrial applications.
+# idea
+
+location with task
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
